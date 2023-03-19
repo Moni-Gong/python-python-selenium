@@ -1,6 +1,12 @@
 # python-python-selenium
 轻量的自动化框架，python+selenium+unittest+HtmlTestRunner
 
+实现功能：打开王者战力系统查询的API网址，查询“苹果微信区”、“李白”的最低省份战力
+
+ps：跳过了登录系统，跟本次代码已实现功能大差不差
+
+未完善：未实现新标签页跳转之后的自动化操作，这样就可以补全从登录界面开始自动化测试了
+
 路径说明：config：配置文件以及数据、logs：日志存放、reports：报告生成地址、screenshots：截图存放、src：源码
 
 src下：base：底层通用功能，click、send_keys等函数。pages：单独页面功能的封装，由底层通用功能+数据配置组成。test_case：用例初始化与用例存放。test_run：批量执行用例
