@@ -1,0 +1,16 @@
+2023-03-19 23:08:10,119 - BasePage - INFO - wait for 10 seconds.
+2023-03-19 23:08:10,182 - BasePage - INFO - Clear text in input box before typing.
+2023-03-19 23:08:10,246 - BasePage - INFO - Clear text in input box before typing.
+2023-03-19 23:08:10,468 - BasePage - INFO - Had type ' ANOZ0UMjAYN ' in inputBox
+2023-03-19 23:08:10,537 - BasePage - INFO - Clear text in input box before typing.
+2023-03-19 23:08:10,573 - BasePage - INFO - Clear text in input box before typing.
+2023-03-19 23:08:10,654 - BasePage - INFO - Had type ' iwx ' in inputBox
+2023-03-19 23:08:10,701 - BasePage - INFO - Clear text in input box before typing.
+2023-03-19 23:08:10,910 - BasePage - INFO - Clear text in input box before typing.
+2023-03-19 23:08:10,972 - BasePage - INFO - Had type ' 李白 ' in inputBox
+2023-03-19 23:08:12,478 - BasePage - INFO - Sleep for 1 seconds
+2023-03-19 23:08:12,616 - BasePage - INFO - The element '发起请求' was clicked.
+2023-03-19 23:08:16,067 - BasePage - INFO - wait for 10 seconds.
+2023-03-19 23:08:16,100 - query - INFO - "宁夏回族自治区"
+2023-03-19 23:08:16,129 - query - INFO - code:
+2023-03-19 23:08:16,354 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
