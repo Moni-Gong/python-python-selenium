@@ -1,7 +1,7 @@
 # python-python-selenium
 轻量的自动化框架，python+selenium+unittest+HtmlTestRunner
 
-实现功能：打开王者战力系统查询的API网址，查询“苹果微信区”、“李白”的最低省份战力
+实现功能：打开王者战力系统查询的API网址，获取信息后保存本地：“苹果微信区”、“李白”的最低省份战力
 
 ps：跳过了登录系统，跟本次代码已实现功能大差不差
 
